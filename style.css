@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  background: #0b0b0b;
+  color: #f1f1f1;
+}
+
+header {
+  background: #050505;
+  padding: 15px 30px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+header img {
+  height: 60px;
+}
+
+nav a {
+  color: #f6b93b;
+  text-decoration: none;
+  margin: 0 10px;
+  font-weight: 600;
+}
+
+.btn-gold {
+  background: #f6b93b;
+  color: #000;
+  padding: 10px 16px;
+  border-radius: 8px;
+  font-weight: 700;
+  text-decoration: none;
+  display: inline-block;
+  margin-top: 10px;
+}
+
+footer {
+  background: #050505;
+  color: #bbb;
+  text-align: center;
+  padding: 20px;
+  margin-top: 40px;
+}
